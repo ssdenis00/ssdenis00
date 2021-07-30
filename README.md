@@ -5,7 +5,7 @@
 - Хочу писать чистый и читабельный код
 
 ### Как со мной связаться?
-[Telegramm](@dinis_l) [GMail](ssdenis@gmail.com)
+[Telegram](https://t.me/@dinis_l) [GMail](mailto:ssdenis@gmail.com)
 
 ## Мой стек:
 - HTML
